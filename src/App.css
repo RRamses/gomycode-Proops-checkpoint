@@ -1,0 +1,36 @@
+.App {
+  text-align: start;
+}
+
+.bigbox{
+  display: flex;
+  border-radius: 7px;
+  
+  border: 1px solid black;
+  height: 300px;
+  width: 800px;
+  align-items: center;
+  margin-top: 200px;
+  margin-left: 300px;
+}
+
+.box1{
+
+  height: 250px;
+  width: 70%;
+ 
+
+}
+
+.box2{
+  height: 300px;
+  width: 30%;
+}
+
+.img{
+  
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  border-radius:  7px ;
+}
